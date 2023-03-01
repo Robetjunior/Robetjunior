@@ -23,13 +23,3 @@
   <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=Robetjunior&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetjunior&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-
-<hr>
-  
-### <p align="left"><strong>Where find me:</strong><p> 
-
-<div> 
-  <a href="https://www.linkedin.com/in/Robetjunior/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>  
-</div>
