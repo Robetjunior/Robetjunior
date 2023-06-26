@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Roberto Ferreira Jr</h1>
 <h3 align="center">A passionate Developer Full Stack from Brazil, SP</h3>
 
-- 🔭 I’m currently working on **Surf Telecom**
+- 🔭 I’m currently working on **Omni Saúde**
 
 - 🌱 I’m currently learning **Typescript, ReactJS, NextJS, Design Systems, Big Data**
 
