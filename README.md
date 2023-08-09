@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Omni Saúde**
 
-- 🌱 I’m currently learning **Typescript, ReactJS, NextJS, Design Systems, Big Data**
+- 🌱 I’m currently learning **Typescript, ReactJS, NodeJS, Design Systems, AWS Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Robetjunior](https://github.com/Robetjunior)
 
