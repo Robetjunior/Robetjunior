@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Roberto Ferreira Jr</h1>
-<h3 align="center">A passionate Developer Full Stack from Brazil, SP</h3>
+<h3 align="center">A passionate Developer Full Stack from Brazil, São Paulo</h3>
 
 - 🔭 I’m currently working on **Omni Saúde**
 
