@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Roberto Ferreira Jr</h1>
 <h3 align="center">A passionate Developer Full Stack from Brazil, São Paulo</h3>
 
-- 🔭 I’m currently working on **Cannect**
+- 🔭 I’m currently working on **IGE2A**
 
 - 🌱 I’m currently learning **Typescript, ReactJS, NodeJS, Design Systems, AWS Services**
 
