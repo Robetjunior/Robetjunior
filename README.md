@@ -1,6 +1,6 @@
 <h1 align="center">José Roberto Ferreira Jr</h1>
 <p align="center">
-  Senior Fullstack Engineer / Tech Lead • TypeScript • React/Next.js • Node.js • PostgreSQL • AWS
+  Senior Fullstack Engineer / Tech Lead • TypeScript • React/Next.js • React Native • Node.js • PostgreSQL • AWS
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ I’m hands-on, product-minded, and focused on **clean architecture, performance
 ---
 
 ## Core stack
-**Frontend:** React, Next.js, TypeScript, Design Systems  
+**Frontend:** React, Next.js, React Native (Expo), TypeScript, Design Systems  
 **Backend:** Node.js, TypeScript, REST, WebSockets, SSE  
 **Data:** PostgreSQL, Supabase, (MongoDB when it fits)  
 **Cloud & Ops:** AWS, Docker, CI/CD, observability mindset  
@@ -75,13 +75,13 @@ I’m hands-on, product-minded, and focused on **clean architecture, performance
 
 ## GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Robetjunior&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Robetjunior&show_icons=true&hide_title=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetjunior&layout=compact" />
 </p>
 
 ---
 
 ## Let’s talk
-If you’re hiring for **TypeScript / React/Next.js / Node / PostgreSQL** with **end-to-end ownership**, I can help you ship faster with higher quality.
+If you’re hiring for **TypeScript / React/Next.js / React Native / Node / PostgreSQL** with **end-to-end ownership**, I can help you ship faster with higher quality.
 
 📫 **juniorferreirarob@gmail.com**
