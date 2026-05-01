@@ -1,19 +1,87 @@
-<h1 align="center">Hi 👋, I'm José Roberto Ferreira Jr</h1>
-<h3 align="center">A passionate Developer Full Stack from Brazil, São Paulo</h3>
-
-- 🔭 I’m currently working on **IGE2A**
-
-- 🌱 I’m currently learning **Typescript, ReactJS, NodeJS, Design Systems, AWS Services**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Robetjunior](https://github.com/Robetjunior)
-
-- 📫 How to reach me **juniorferreirarob@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/josé-roberto-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-roberto-dev/" height="30" width="40" /></a>
+<h1 align="center">José Roberto Ferreira Jr</h1>
+<p align="center">
+  Senior Fullstack Engineer / Tech Lead • TypeScript • React/Next.js • Node.js • PostgreSQL • AWS
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-roberto-dev/" target="_blank">LinkedIn</a>
+  •
+  <a href="mailto:juniorferreirarob@gmail.com">juniorferreirarob@gmail.com</a>
+  •
+  <a href="https://github.com/Robetjunior" target="_blank">GitHub</a>
+</p>
 
+---
+
+## About
+I’m a Brazil-based **Senior Fullstack Engineer / Tech Lead** with 5+ years building **web + mobile products**, **APIs**, and **real-time platforms**. I work end-to-end: **discovery → architecture → implementation → testing → deploy → observability**.
+
+I’m hands-on, product-minded, and focused on **clean architecture, performance, reliability, and scalable delivery**. I collaborate closely with **Product and Design**, and I enjoy raising the bar on **code quality** and **engineering standards**.
+
+---
+
+## What I deliver
+- **End-to-end ownership** of features and platforms, from architecture to production
+- **Real-time systems** (WebSockets, SSE), resilient integrations, and operational tooling
+- **Backend excellence** (Node/TypeScript) with strong **PostgreSQL** modeling and performance
+- **Frontend craftsmanship** (React/Next.js) with UX sensitivity and component discipline
+- **Technical leadership**: standards, reviews, mentoring, and pragmatic decision-making
+- Comfortable working with **AI-first dev workflows** (pairing, scaffolding, refactoring, faster iteration)
+
+---
+
+## Highlights
+### IGE2A — Charging Station Management System (CSMS)
+- Led architecture and delivery of a complete CSMS ecosystem with **real-time operations**
+- Built an **OCPP 1.6J engine** in **Node.js/TypeScript** (WebSockets/SSE), session lifecycle, telemetry
+- Designed and optimized **PostgreSQL/Supabase** for scale (RPCs, pooling, event-driven flows)
+- Implemented **payments/top-ups** and critical integrations (ex: **Stripe**)
+- Shipped **Admin Web** with **RBAC**, monitoring, and operational workflows
+- Built an **OCPP web simulator** for end-to-end validation without physical hardware
+
+### Cannect — Marketplace & Growth Platform
+- Delivered a new mobile-responsive journey focused on conversion & performance
+- Modernized React/Node/AWS systems for scalability and maintainability
+- Migrated **180k+ leads** to PostgreSQL and automated ingestion/segmentation routines
+- Set up **Cypress E2E** testing to reduce regressions
+- Results: **+18% profit**, **-80% manual time**, **+15% mobile sales growth**
+
+---
+
+## Core stack
+**Frontend:** React, Next.js, TypeScript, Design Systems  
+**Backend:** Node.js, TypeScript, REST, WebSockets, SSE  
+**Data:** PostgreSQL, Supabase, (MongoDB when it fits)  
+**Cloud & Ops:** AWS, Docker, CI/CD, observability mindset  
+**Quality:** Clean Architecture, SOLID, testing strategy, performance & reliability
+
+---
+
+## Open to
+- Senior Fullstack Engineer (React/Next.js + Node + PostgreSQL)
+- Tech Lead / Staff-leaning roles with strong ownership and architecture responsibility
+- Long-term contract or full-time, remote or hybrid (depending on scope)
+
+---
+
+## Featured work
+- CSMS / OCPP platform (real-time + payments + admin)
+- OCPP simulator for integration testing
+- Operational dashboards with RBAC and auditability
+
+(If you want, I can pin the best repos and write a short “Why this repo matters” section for each one.)
+
+---
+
+## GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Robetjunior&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetjunior&layout=compact" />
+</p>
+
+---
+
+## Let’s talk
+If you’re hiring for **TypeScript / React/Next.js / Node / PostgreSQL** with **end-to-end ownership**, I can help you ship faster with higher quality.
+
+📫 **juniorferreirarob@gmail.com**
