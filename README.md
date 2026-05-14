@@ -73,14 +73,6 @@ I’m hands-on, product-minded, and focused on **clean architecture, performance
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Robetjunior&show_icons=true&hide_title=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetjunior&layout=compact" />
-</p>
-
----
-
 ## Let’s talk
 If you’re hiring for **TypeScript / React/Next.js / React Native / Node / PostgreSQL** with **end-to-end ownership**, I can help you ship faster with higher quality.
 
