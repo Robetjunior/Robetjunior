@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-roberto-dev/" target="_blank">LinkedIn</a>
-  •
+  <a href="https://www.linkedin.com/in/joseroberto-dev/" target="_blank">LinkedIn</a>
+  • 
   <a href="mailto:juniorferreirarob@gmail.com">juniorferreirarob@gmail.com</a>
   •
   <a href="https://github.com/Robetjunior" target="_blank">GitHub</a>
